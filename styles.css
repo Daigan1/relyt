@@ -1,0 +1,38 @@
+.information {
+padding-top: 50px;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+font-weight: bold;
+}
+
+
+
+.profile-image {
+  width: 200px;
+  height: 200px;
+  margin-left: 35px;
+}
+
+
+
+.sub-text {
+  margin-top: 25px;
+  display:block;
+  color: black;
+  font-size: 50px;
+
+}
+
+
+
+.title {
+  margin-left: 25px;
+  font-size: 75px;
+  font-weight: lighter;
+  font-family: 'Anton', sans-serif;
+}
+
+
+html {
+  background-color: red;
+}
